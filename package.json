@@ -42,7 +42,6 @@
     "@radix-ui/react-tooltip": "^1.1.2",
     "@react-spring/three": "^9.7.5",
     "@react-three/drei": "^9.122.0",
-    "@react-three/fiber": "^8.15.13",
     "@react-three/rapier": "^2.1.0",
     "@supabase/supabase-js": "^2.58.0",
     "@types/node": "20.6.2",
